@@ -37,6 +37,10 @@ Configuration
 | output.dir | String  | /tmp/cassandra-mv-repair-spark-job/ | The job outputs the MV inconsistencies to an output folder.                                                                                                                                                                                                                                                                                                  |
 
 
+Design Doc
+----------
+[Link](https://docs.google.com/document/d/14mo_3TlKmaL3mC_Vs69k1n923CoJmVFvEFvuPAAHk4I/edit?usp=sharing)
+
 Examples
 --------
 
