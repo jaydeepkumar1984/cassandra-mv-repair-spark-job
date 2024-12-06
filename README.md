@@ -39,7 +39,7 @@ Configuration
 
 Design Doc
 ----------
-https://docs.google.com/document/d/14mo_3TlKmaL3mC_Vs69k1n923CoJmVFvEFvuPAAHk4I/edit?usp=sharing
+[Link](https://docs.google.com/document/d/14mo_3TlKmaL3mC_Vs69k1n923CoJmVFvEFvuPAAHk4I/edit?usp=sharing)
 
 Examples
 --------
